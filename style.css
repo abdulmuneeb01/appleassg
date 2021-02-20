@@ -1,0 +1,35 @@
+.main{
+    background-color: black;
+    width: 100%;
+    color: white;
+    height: 40px;
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.secmain{
+    background-color: rgb(105, 105, 231);
+    width: 100%;
+    color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 3.5px;
+}
+.thdmain{
+background-color: rgba(245, 243, 240, 0.849);
+padding: 1px;
+text-align: center;
+height: 40px;
+}
+.h1{
+    text-align: center;
+}
+.h3{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+.p2{
+    text-align: center;
+}
